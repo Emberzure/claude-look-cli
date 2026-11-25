@@ -1,7 +1,7 @@
 {
   "name": "ccc-look",
-  "version": "0.1.0",
-  "description": "小克 (Claude-chan) look for Claude Code CLI: 13 themes, an inline illustration pane, and an auto schedule",
-  "author": { "name": "azure" },
+  "version": "0.1.1",
+  "description": "小克 (Claude-chan) look for Claude Code CLI: a right-docked illustration pane in the fullscreen TUI, optional themes, and an auto schedule. CLI port of bananaeat/xiaoke-look.",
+  "author": { "name": "Emberzure" },
   "license": "MIT"
 }

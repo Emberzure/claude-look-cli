@@ -1,6 +1,6 @@
 {
   "name": "ccc-look",
-  "description": "小克 (Claude-chan) look for Claude Code CLI",
-  "owner": { "name": "azure" },
+  "description": "小克 (Claude-chan) look for Claude Code CLI: a right-docked illustration pane in the fullscreen TUI, optional themes, and an auto schedule. CLI port of bananaeat/xiaoke-look.",
+  "owner": { "name": "Emberzure" },
   "plugins": [{ "name": "ccc-look", "source": "./" }]
 }
