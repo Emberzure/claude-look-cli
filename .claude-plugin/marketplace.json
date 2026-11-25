@@ -1,0 +1,6 @@
+{
+  "name": "ccc-look",
+  "description": "小克 (Claude-chan) look for Claude Code CLI",
+  "owner": { "name": "azure" },
+  "plugins": [{ "name": "ccc-look", "source": "./" }]
+}

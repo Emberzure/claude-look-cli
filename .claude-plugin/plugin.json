@@ -1,0 +1,7 @@
+{
+  "name": "ccc-look",
+  "version": "0.1.0",
+  "description": "小克 (Claude-chan) look for Claude Code CLI: 13 themes, an inline illustration pane, and an auto schedule",
+  "author": { "name": "azure" },
+  "license": "MIT"
+}

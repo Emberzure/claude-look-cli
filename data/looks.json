@@ -1,0 +1,319 @@
+[
+  {
+    "id": "morning",
+    "title": "清晨·睡衣早餐",
+    "aliases": ["清晨", "早餐", "早上", "breakfast"],
+    "mode": "light",
+    "paper": "#f3e8de",
+    "side": "left",
+    "face": [0.63, 0.26],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#c8561f",
+      "danger": "#b3392f",
+      "success": "#5a7d3a",
+      "warning": "#a86f14",
+      "pro": "#4f6ea0"
+    },
+    "anchors": {
+      "surface-1": "#f7efe7",
+      "surface-2": "#fbf6f1",
+      "text-primary": "#2b1d16",
+      "text-secondary": "#55402f",
+      "text-muted": "#6a5546"
+    }
+  },
+  {
+    "id": "afternoon",
+    "title": "午后·窗边读书",
+    "aliases": ["午后", "day", "read"],
+    "mode": "light",
+    "paper": "#f2e8da",
+    "side": "right",
+    "face": [0.56, 0.18],
+    "aspect": 1.123,
+    "roles": {
+      "accent": "#c8561f",
+      "danger": "#b3392f",
+      "success": "#5a7d3a",
+      "warning": "#a86f14",
+      "pro": "#7a4f8a"
+    },
+    "anchors": {
+      "surface-1": "#f6eee2",
+      "surface-2": "#faf5ec",
+      "text-primary": "#2b1c15",
+      "text-secondary": "#553e31",
+      "text-muted": "#6b5545"
+    }
+  },
+  {
+    "id": "cafe",
+    "title": "咖啡店·打工",
+    "aliases": ["咖啡", "咖啡店", "打工", "coffee", "latte"],
+    "mode": "light",
+    "paper": "#efdfd1",
+    "side": "right",
+    "face": [0.51, 0.25],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#b8561f",
+      "danger": "#a8352d",
+      "success": "#577a38",
+      "warning": "#9c6812",
+      "pro": "#7a4f6a"
+    },
+    "anchors": {
+      "surface-1": "#f4e8dd",
+      "surface-2": "#f9f2eb",
+      "text-primary": "#2a1b14",
+      "text-secondary": "#533a2c",
+      "text-muted": "#664d3e"
+    }
+  },
+  {
+    "id": "rain",
+    "title": "雨天·窗边茶",
+    "aliases": ["雨天", "tea"],
+    "mode": "light",
+    "paper": "#dae2ea",
+    "side": "left",
+    "face": [0.54, 0.18],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#c25a2c",
+      "danger": "#b23a35",
+      "success": "#4f7d5b",
+      "warning": "#9c6c17",
+      "pro": "#5b5f9e"
+    },
+    "anchors": {
+      "surface-1": "#e3e9ef",
+      "surface-2": "#edf1f5",
+      "text-primary": "#1d2128",
+      "text-secondary": "#3f4651",
+      "text-muted": "#525a66"
+    }
+  },
+  {
+    "id": "dusk",
+    "title": "黄昏·放学",
+    "aliases": ["黄昏", "放学", "制服", "sunset", "school"],
+    "mode": "light",
+    "paper": "#f4d5c3",
+    "side": "left",
+    "face": [0.56, 0.2],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#bf4a1c",
+      "danger": "#a5302c",
+      "success": "#4f7536",
+      "warning": "#96600e",
+      "pro": "#6d4b8a"
+    },
+    "anchors": {
+      "surface-1": "#f7dfd0",
+      "surface-2": "#fae9de",
+      "text-primary": "#2c1a1f",
+      "text-secondary": "#56383f",
+      "text-muted": "#664850"
+    }
+  },
+  {
+    "id": "night",
+    "title": "夜读·台灯",
+    "aliases": ["夜读", "lamp"],
+    "mode": "dark",
+    "paper": "#1d1731",
+    "side": "right",
+    "face": [0.59, 0.25],
+    "aspect": 1.2695,
+    "roles": {
+      "accent": "#e0823f",
+      "danger": "#e06a5c",
+      "success": "#8fbf7a",
+      "warning": "#e3b25a",
+      "pro": "#b79be0"
+    },
+    "anchors": {
+      "surface-1": "#25203a",
+      "surface-2": "#2b2641",
+      "surface-3": "#2f2a46",
+      "text-primary": "#f1eadf",
+      "text-secondary": "#cfc6bb",
+      "text-muted": "#aba3a0"
+    }
+  },
+  {
+    "id": "code",
+    "title": "深夜·敲代码",
+    "aliases": ["敲代码", "debug", "midnight"],
+    "mode": "dark",
+    "paper": "#131a24",
+    "side": "right",
+    "face": [0.45, 0.2],
+    "aspect": 1.2695,
+    "roles": {
+      "accent": "#e8874a",
+      "danger": "#e2675e",
+      "success": "#7fc48f",
+      "warning": "#e0b45c",
+      "pro": "#9fb3f0"
+    },
+    "anchors": {
+      "surface-1": "#19212d",
+      "surface-2": "#1e2633",
+      "surface-3": "#222a38",
+      "text-primary": "#e8edf3",
+      "text-secondary": "#c3cbd6",
+      "text-muted": "#9aa4b2"
+    }
+  },
+  {
+    "id": "detective",
+    "title": "深夜·侦探推理",
+    "aliases": ["侦探", "推理", "sherlock", "mystery"],
+    "mode": "dark",
+    "paper": "#1b222c",
+    "side": "left",
+    "face": [0.57, 0.27],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#e8874a",
+      "danger": "#e2675e",
+      "success": "#86c39a",
+      "warning": "#e0b45c",
+      "pro": "#a8b4e8"
+    },
+    "anchors": {
+      "surface-1": "#212935",
+      "surface-2": "#262e3b",
+      "surface-3": "#29323f",
+      "text-primary": "#e9ece8",
+      "text-secondary": "#c6cbc4",
+      "text-muted": "#9ea69f"
+    }
+  },
+  {
+    "id": "spring",
+    "title": "春日·樱花",
+    "aliases": ["春", "春日", "樱花", "sakura"],
+    "mode": "light",
+    "paper": "#f5e8e1",
+    "side": "left",
+    "face": [0.57, 0.15],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#c8561f",
+      "danger": "#b3392f",
+      "success": "#557d3c",
+      "warning": "#a86f14",
+      "pro": "#9a4f7a"
+    },
+    "anchors": {
+      "surface-1": "#f8eee8",
+      "surface-2": "#fbf5f1",
+      "text-primary": "#2e1f22",
+      "text-secondary": "#5a4246",
+      "text-muted": "#6e575b"
+    }
+  },
+  {
+    "id": "festival",
+    "title": "夏夜·烟花祭",
+    "aliases": ["夏", "夏夜", "烟花", "浴衣", "summer", "fireworks"],
+    "mode": "dark",
+    "paper": "#191d34",
+    "side": "right",
+    "face": [0.61, 0.31],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#ec8a48",
+      "danger": "#e86a5e",
+      "success": "#8cc48a",
+      "warning": "#e8b85a",
+      "pro": "#b49be6"
+    },
+    "anchors": {
+      "surface-1": "#1f2440",
+      "surface-2": "#242a47",
+      "surface-3": "#282e4c",
+      "text-primary": "#eef0f7",
+      "text-secondary": "#c9cde0",
+      "text-muted": "#a2a8c0"
+    }
+  },
+  {
+    "id": "autumn",
+    "title": "秋日·红叶",
+    "aliases": ["秋", "秋日", "红叶", "fall", "maple"],
+    "mode": "light",
+    "paper": "#f2e3d6",
+    "side": "right",
+    "face": [0.63, 0.2],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#c24e1e",
+      "danger": "#a8322a",
+      "success": "#5b7a34",
+      "warning": "#a2690f",
+      "pro": "#7a4f7a"
+    },
+    "anchors": {
+      "surface-1": "#f6ebe1",
+      "surface-2": "#faf3ec",
+      "text-primary": "#2d1a12",
+      "text-secondary": "#57392b",
+      "text-muted": "#6c5040"
+    }
+  },
+  {
+    "id": "snow",
+    "title": "冬日·初雪",
+    "aliases": ["冬日", "落雪", "winter"],
+    "mode": "light",
+    "paper": "#e7eef5",
+    "side": "right",
+    "face": [0.65, 0.2],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#c8561f",
+      "danger": "#b3392f",
+      "success": "#4b7a5a",
+      "warning": "#9a6b12",
+      "pro": "#5e5a9c"
+    },
+    "anchors": {
+      "surface-1": "#eef3f8",
+      "surface-2": "#f5f8fb",
+      "text-primary": "#1f2228",
+      "text-secondary": "#454953",
+      "text-muted": "#575c67"
+    }
+  },
+  {
+    "id": "holiday",
+    "title": "圣诞·新年",
+    "aliases": ["圣诞", "新年", "christmas", "xmas"],
+    "mode": "dark",
+    "paper": "#2a1c21",
+    "side": "left",
+    "face": [0.56, 0.3],
+    "aspect": 1.1719,
+    "roles": {
+      "accent": "#ec8a48",
+      "danger": "#ec6a5e",
+      "success": "#8cc48a",
+      "warning": "#e8b85a",
+      "pro": "#c79be0"
+    },
+    "anchors": {
+      "surface-1": "#31222a",
+      "surface-2": "#37272f",
+      "surface-3": "#3a2a32",
+      "text-primary": "#f3e9e4",
+      "text-secondary": "#d4c4c0",
+      "text-muted": "#b0a19f"
+    }
+  }
+]

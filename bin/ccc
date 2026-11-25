@@ -1,0 +1,4 @@
+#!/bin/sh
+# Start Claude Code with this plugin loaded.
+root=$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)
+exec claude --plugin-dir "$root" "$@"
